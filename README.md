@@ -1,3 +1,3 @@
-# Headline
+# 则若空间
 
-> An awesome project.
+[收集箱](/inbox/)
