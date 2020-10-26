@@ -8,3 +8,6 @@
 ### 随笔
 [随笔-1](./essays/essay-1)
 
+### 爱行
+[爱行-1](./love-deeds/love-deed-1)
+
