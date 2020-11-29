@@ -18,6 +18,7 @@
 
 ### 成为爱，感受爱
 - [事业之画](./know-the-relationship/career-painting)
+- [人际关系](./know-the-relationship/interpersonal-relationship)
 
 ## 认识世界
 > 世界几乎所有的事实都是我们共同相信的某个虚构的故事。
