@@ -10,6 +10,10 @@
 
 隐含假设：1. 源头是美，源头是爱。 2. 美和爱才是真实的。
 
+### 我是爱，我是美
+- [我的风险点](./know-myself/my-risk-point)
+- [我最大的恐惧](./know-myself/my-greatest-fear)
+
 ## 认识自我和世界的关系
 > 在我落幕前，希望可以自豪的说一声：“我给世界留下了两份礼物：一份是我的人生，一份是我的作品。”
 
@@ -18,7 +22,6 @@
 
 ### 成为爱，感受爱
 - [事业之画](./know-the-relationship/career-painting)
-- [人际关系](./know-the-relationship/interpersonal-relationship)
 
 ## 认识世界
 > 世界几乎所有的事实都是我们共同相信的某个虚构的故事。
