@@ -11,17 +11,18 @@
 隐含假设：1. 源头是美，源头是爱。 2. 美和爱才是真实的。
 
 ### 我是爱，我是美
-- [我的风险点](./know-myself/my-risk-point)
-- [我最大的恐惧](./know-myself/my-greatest-fear)
+- [我人生的风险点有哪些？](./know-myself/my-risk-point)
+- [我最大的恐惧是什么？](./know-myself/my-greatest-fear)
 
 ## 认识自我和世界的关系
 > 在我落幕前，希望可以自豪的说一声：“我给世界留下了两份礼物：一份是我的人生，一份是我的作品。”
 
 ### 成为美，感受美
-- [生活之曲](./know-the-relationship/song-of-life)
+- [我的人生战略规划是什么样子的？](./know-the-relationship/song-of-life)
 
 ### 成为爱，感受爱
-- [事业之画](./know-the-relationship/career-painting)
+- [我的事业战略规划是什么样子的？](./know-the-relationship/career-painting)
+- [何时用身，何时用心，何时用脑？](./know-the-relationship/trinity)
 
 ## 认识世界
 > 世界几乎所有的事实都是我们共同相信的某个虚构的故事。
