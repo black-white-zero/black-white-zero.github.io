@@ -42,3 +42,7 @@
 
 ## 附录
 - [则若 wiki：亦黑亦白，亦正亦邪的自由。](https://www.notion.so/wiki-d7c882b95a0041f398d689d85612c6bb)
+- 一周一次突破
+  - [2020-2021一周一次突破](appendix/week-break/2020-2021-week-break)
+  - [2019-2020一周一次突破](appendix/week-break/2019-2020-week-break)
+  - [2018-2019一周一次突破](appendix/week-break/2018-2019-week-break)
