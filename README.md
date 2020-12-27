@@ -14,6 +14,7 @@
 - [我人生的风险点有哪些？](./know-myself/my-risk-point)
 - [我最大的恐惧是什么？](./know-myself/my-greatest-fear)
 - [我的需求是什么？](./know-myself/my-needs)
+- [适合我的语言学习方式是什么？](./know-myself/my_language_development)
 
 ## 认识自我和世界的关系
 > 在我落幕前，希望可以自豪的说一声：“我给世界留下了两份礼物：一份是我的人生，一份是我的作品。”
