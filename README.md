@@ -11,6 +11,7 @@
 隐含假设：1. 源头是美，源头是爱。 2. 美和爱才是真实的。
 
 ### 我是爱，我是美
+- [我的公理是什么？](./know-myself/my-right)
 - [我人生的风险点有哪些？](./know-myself/my-risk-point)
 - [我最大的恐惧是什么？](./know-myself/my-greatest-fear)
 - [我的需求是什么？](./know-myself/my-needs)
