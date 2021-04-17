@@ -26,6 +26,7 @@
 ### 成为爱，感受爱
 - [我的事业战略规划是什么样子的？](./know-the-relationship/career-painting)
 - [何时用身，何时用心，何时用脑？](./know-the-relationship/trinity)
+- [我与灵修之间的关系？](./know-the-relationship/me-and-spirituality)
 
 ## 认识世界
 > 世界几乎所有的事实都是我们共同相信的某个虚构的故事。
