@@ -22,6 +22,7 @@
 
 ### 成为美，感受美
 - [我的人生战略规划是什么样子的？](./know-the-relationship/song-of-life)
+- [我想构建的爱情场域是什么样子的？](./know-the-relationship/beautiful_love)
 
 ### 成为爱，感受爱
 - [我的事业战略规划是什么样子的？](./know-the-relationship/career-painting)
