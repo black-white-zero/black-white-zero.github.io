@@ -1,4 +1,4 @@
 
-![logo](_media/white.png)
+![logo](_media/zero.png)
 
 > Everything is perfect.
